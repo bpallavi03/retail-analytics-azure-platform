@@ -2,9 +2,6 @@
 
 An end-to-end cloud data engineering and machine learning platform built on Microsoft Azure. This project automates the ingestion and ETL transformation of retail transactions, trains Customer Lifetime Value (CLV) predictive models, and hosts an interactive Streamlit analytics dashboard.
 
-## 🔗 Live Demo
-Check out the live running application: **[Retail Analytics Dashboard](https://retail-dashboard-pallavi.azurewebsites.net/)**
-
 ---
 
 ## 📊 Architecture & Pipeline
