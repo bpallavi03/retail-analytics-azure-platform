@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local data files
+retail_transactions.csv
+clv_feature_matrix.csv
+project.zip
+clean_transactions.csv
+
+# Model pickles
+best_clv_model.pkl
+model_columns.pkl
+
+# IDE files
+.vscode/
+.idea/
