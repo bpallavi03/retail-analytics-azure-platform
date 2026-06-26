@@ -78,5 +78,10 @@ streamlit run app.py
 * **Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Joblib, Azure Storage Blob SDK
 * **Version Control**: Git, GitHub
 
+## 🖥️ Application Demo & Cloud Deployment
 
+### Azure App Service Deployment Log
+<img width="592" height="538" alt="Screenshot 2026-06-24 194749" src="https://github.com/user-attachments/assets/93b83834-e418-4783-b97b-50a4526e85db" />
+
+### Interactive Streamlit Dashboard
 <img width="1431" height="832" alt="Screenshot 2026-06-24 192707" src="https://github.com/user-attachments/assets/8b30a488-444e-45a3-b45a-b254d391ecc3" />
