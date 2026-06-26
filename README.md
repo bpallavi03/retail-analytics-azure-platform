@@ -77,3 +77,6 @@ streamlit run app.py
 * **Programming**: Python 3.9/3.11, Shell Scripting (`startup.sh`)
 * **Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, Joblib, Azure Storage Blob SDK
 * **Version Control**: Git, GitHub
+
+
+<img width="1431" height="832" alt="Screenshot 2026-06-24 192707" src="https://github.com/user-attachments/assets/8b30a488-444e-45a3-b45a-b254d391ecc3" />
